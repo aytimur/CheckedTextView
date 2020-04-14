@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckedTextView</string>
+    <string name="smesaj">CheckedTextView</string>
+    <string name="secildi">Seçildi</string>
+    <string name="secilmedi">Seçilmedi</string>
+    <string name="ctvisim">CheckedTextView</string>
+</resources>
